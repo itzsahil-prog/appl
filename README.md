@@ -1,15 +1,5 @@
 # 🍎APPL: A Prompt Programming Language
 
-[![version](https://img.shields.io/pypi/v/applang.svg)](https://pypi.python.org/pypi/applang)
-[![python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://pre-commit.com/)
-[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://mit-license.org/)
-[![Discord](https://img.shields.io/badge/discord-orange)](https://discord.gg/q3x4Qwgj29)
-[![arXiv](http://img.shields.io/badge/cs.AI-arXiv%3A2406.13161-B31B1B.svg?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2406.13161)
-
 **APPL** is A Prompt Programming Language that extends Python to provide a Natural, Intuitive, Convenient, and Efficient (NICE) way to utilize Large Language Models (LLMs) such as GPT in your program. We believe Language Model will be an essential part of future software that help achieves more than what we can do today, and APPL is a step towards this future that seamlessly integrates programs and LLMs.
 
 <video style="width: 100%" src="https://github.com/appl-team/appl/assets/12556773/5d75d3db-1b1c-48c9-97ec-e9d72a387e49" type="video/mp4" controls></video>
