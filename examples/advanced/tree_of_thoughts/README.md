@@ -1,6 +1,6 @@
 # Reimplementing Tree of Thoughts
 
-Re-implementing the Tree of Thoughts (ToT) [[original repo](https://github.com/princeton-nlp/tree-of-thought-llm)] with APPL.
+Re-implementing the Tree of Thoughts (ToT) [[original repo](https://github.com/itzsahil-prog/tree-of-thought-llm)] with APPL.
 Implemented for the Game of 24 problem within a single file.
 
 ## Usage
